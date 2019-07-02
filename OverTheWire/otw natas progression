@@ -1,0 +1,17 @@
+OverTheWire Progression:
+
+NATAS:
+
+level 0 - go to html (F12) to find password:
+<!--The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto -->
+This webpage just says "You can find the password for the next level on this page"
+
+level 1 - go to html (F12) to find password:
+<!--The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi -->
+This webpage says the same as level but that right-clicking has been blocked.
+Maybe first one was supposed to inspect with right click?
+
+level 2 - go to html (F12) and inspect elements. Open the link for the pixel image.
+This makes the website http://natas2.natas.labs.overthewire.org/files/pixel.png
+If you delete "pixel.png" from the address to go to files there will be a text file with the following:
+natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
